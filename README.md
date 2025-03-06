@@ -1,5 +1,6 @@
 # React + Vite Template
 中文文档：https://github.com/kai230/yy-ch/blob/main/README_CN.md
+
 A modern React template for web applications and games, featuring React 18, Vite, TailwindCSS, and Material UI.
 
 ## Project Structure
